@@ -54,6 +54,7 @@ $total_pages = ceil($total_records / $results_per_page);
 // Close database connection
 $conn->close();
 // Render the HTML template
+//first added git
 ?>
 <!DOCTYPE html>
 <html>
